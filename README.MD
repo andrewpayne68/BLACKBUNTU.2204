@@ -16,4 +16,4 @@ tar -xf blackbuntu.tar.xz
 ```
 
 
-<p align="center"><img src="https://i.ibb.co/QkH7LXT/Blackbuntu-desktop.png" alt="Blackbuntu-desktop" border="0">
+<p align="center"><img src="https://i.ibb.co/wB20tTb/Blackbuntu-desktop.jpg" alt="Blackbuntu-desktop" border="0">
