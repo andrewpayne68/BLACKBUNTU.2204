@@ -28,6 +28,8 @@ sudo update-nala.sh
 ```
 to update the system
 
+* * * 
+
 ![image-1](https://github.com/andrewpayne68/BLACKBUNTU.TAR.XZ/blob/main/Blackbuntu-desktop.jpg)
 
 
