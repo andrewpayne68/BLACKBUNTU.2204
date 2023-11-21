@@ -21,7 +21,7 @@ tar -xf blackbuntu.tar.xz
 ```
 ./build.sh
 ```
-
+* * *
 After the first reboot, run 
 ```
 sudo update-nala.sh
