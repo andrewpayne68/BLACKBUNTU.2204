@@ -20,6 +20,6 @@ tar -xf blackbuntu.tar.xz
 ```
 
 
-![image-1](https://i.ibb.co/vxjFtPT/Blackbuntu-desktop.jpg)
+![image-1](https://github.com/andrewpayne68/BLACKBUNTU.TAR.XZ/blob/main/Blackbuntu-desktop.jpg)
 
-<img src="https://i.ibb.co/vxjFtPT/Blackbuntu-desktop.jpg" alt="Blackbuntu-desktop" border="0">
+
