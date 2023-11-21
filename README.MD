@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/0K94x5t/ubuntu-logo-large.png" alt="Blackbuntu Logo" height="105"></p>
+<p align="center"><img src="" alt="Blackbuntu Logo" height="28"></p>
 
 # Blackbuntu
 
