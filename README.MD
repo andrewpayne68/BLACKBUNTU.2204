@@ -5,7 +5,7 @@ This is a fully themed installation build script to convert Ubuntu 22.04 LTS to 
 
 You can download the latest 22.04 LTS Build ISO from here: https://ubuntu.com/download/desktop
 
-`Note this script and theme will not work correctly on newer builds of ubuntu)`
+ > `Note this script and theme will not work correctly on newer builds of ubuntu)`
 * * *
 
 ```
