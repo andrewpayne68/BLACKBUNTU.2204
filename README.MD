@@ -13,6 +13,9 @@ sudo apt install git
 git clone https://github.com/andrewpayne68/BLACKBUNTU.TAR.XZ.git
 ```
 ```
+cd blackbuntu.tar.xz
+```
+```
 tar -xf blackbuntu.tar.xz
 ```
 ```
