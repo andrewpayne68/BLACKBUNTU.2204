@@ -7,7 +7,7 @@ This is a fully themed installation build script to convert Ubuntu 22.04 LTS to 
 * * *
 
 ```
-sudo apt install git
+sudo apt-get install git -y
 ```
 ```
 git clone https://github.com/andrewpayne68/blackbuntu.tar.xz.git
