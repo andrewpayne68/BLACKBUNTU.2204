@@ -2,7 +2,8 @@
 
 * * *
 This is a fully themed installation build script to convert Ubuntu 22.04 LTS to Blackbuntu 22.04 LTS
-Note this will only work on Ubuntu 22.04 LTS (GNOME 42)
+
+(Note this will not work correctly on newer builds of ubuntu)
 * * *
 
 ```
