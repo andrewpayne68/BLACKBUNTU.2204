@@ -1,6 +1,4 @@
-https://ibb.co/NrNDMRS
-
-<p align="center"><img src="https://ibb.co/NrNDMRS" alt="Blackbuntu Logo" height="128"></p>
+<p align="center"><img src="https://i.ibb.co/0K94x5t/ubuntu-logo-large.png" alt="Blackbuntu Logo" height="128"></p>
 
 # Blackbuntu
 
