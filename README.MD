@@ -24,6 +24,10 @@ tar -xf blackbuntu.tar.xz
 ./build.sh
 ```
 
+OR run the all-in-one bash command
+```
+sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu.tar.xz.git && cd blackbuntu.tar.xz && tar -xf blackbuntu.tar.xz && ./build.sh
+```
 
 
 
