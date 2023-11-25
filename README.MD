@@ -12,10 +12,10 @@ Download the latest 22.04 LTS Build ISO from here: `https://ubuntu.com/download/
 sudo apt-get -y install git
 ```
 ```
-git clone https://github.com/andrewpayne68/blackbuntu.tar.xz.git
+git clone https://github.com/andrewpayne68/blackbuntu.2204.git
 ```
 ```
-cd blackbuntu.tar.xz
+cd blackbuntu.2204
 ```
 ```
 tar -xf blackbuntu.tar.xz
@@ -26,7 +26,7 @@ tar -xf blackbuntu.tar.xz
 
 OR run the all-in-one bash command
 ```
-sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu.2204.git && cd blackbuntu.tar.xz && tar -xf blackbuntu.tar.xz && ./build.sh
+sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu.2204.git && cd blackbuntu.2204 && tar -xf blackbuntu.tar.xz && ./build.sh
 ```
 
 
