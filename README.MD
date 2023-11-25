@@ -9,7 +9,7 @@ Note this script and theme will not work correctly on newer builds of ubuntu, su
 * * *
 
 ```
-sudo apt-get install git -y
+sudo apt-get -y install git
 ```
 ```
 git clone https://github.com/andrewpayne68/blackbuntu.tar.xz.git
