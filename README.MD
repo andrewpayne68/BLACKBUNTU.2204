@@ -42,6 +42,6 @@ sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackb
 
 
 
-![image-1](https://github.com/andrewpayne68/BLACKBUNTU.TAR.XZ/blob/main/Blackbuntu-desktop.jpg)
+![image-1](https://github.com/andrewpayne68/BLACKBUNTU.2204/blob/main/Blackbuntu-desktop.jpg)
 
 
