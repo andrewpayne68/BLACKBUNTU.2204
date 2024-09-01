@@ -7,7 +7,7 @@ This is a fully themed installation build script to convert Ubuntu 22.04 LTS to 
 
 Download the latest 22.04 LTS Build ISO from here: `https://ubuntu.com/download/desktop`
 
-(Note this script and theme will not work correctly on newer builds of ubuntu, such as 23.04 or 23.10, check this repo for one for 23.10 - https://github.com/andrewpayne68/BLACKBUNTU.2310)
+Note this script and theme will not work correctly on newer builds of ubuntu, such as 24.04 or 23.10, check this repo for one for 23.10 - https://github.com/andrewpayne68/BLACKBUNTU.2310 and this for 24.04 https://github.com/andrewpayne68/blackbuntu2404
 ##
 
 ```
